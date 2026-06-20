@@ -31,15 +31,15 @@
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/saravanakumar0701h">
+  <a href="https://github.com/Saravana071005">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saravanakumar0701h&style=flat-square&color=6A0DAD&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Saravana071005&style=flat-square&color=6A0DAD&label=Profile+Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/saravanakumar0701h?style=flat-square&color=9B59B6&label=Followers"/>
+  <img src="https://img.shields.io/github/followers/Saravana071005?style=flat-square&color=9B59B6&label=Followers"/>
 </p>
 
 ---
@@ -275,13 +275,13 @@ Maharishi Vidya Mandir · 2020 – 2021
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saravanakumar0701h&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=9B59B6&icon_color=6A0DAD&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saravana071005&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=9B59B6&icon_color=6A0DAD&text_color=C9D1D9"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanakumar0701h&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=9B59B6&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravana071005&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=9B59B6&text_color=C9D1D9"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanakumar0701h&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=6A0DAD&fire=9B59B6&currStreakLabel=C9D1D9" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saravana071005&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=6A0DAD&fire=9B59B6&currStreakLabel=C9D1D9" width="60%"/>
 </p>
 
 ---
@@ -289,7 +289,7 @@ Maharishi Vidya Mandir · 2020 – 2021
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saravanakumar0701h&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Saravana071005&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </p>
 
 ---
@@ -297,7 +297,7 @@ Maharishi Vidya Mandir · 2020 – 2021
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saravanakumar0701h&bg_color=0D0D1A&color=9B59B6&line=6A0DAD&point=C9D1D9&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravana071005&bg_color=0D0D1A&color=9B59B6&line=6A0DAD&point=C9D1D9&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -305,7 +305,7 @@ Maharishi Vidya Mandir · 2020 – 2021
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saravanakumar0701h/saravanakumar0701h/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Saravana071005/Saravana071005/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </p>
 
 ---
@@ -352,8 +352,8 @@ current_focus:
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/saravanakumar0701h">
-    <img src="https://img.shields.io/badge/GitHub-saravanakumar0701h-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Saravana071005">
+    <img src="https://img.shields.io/badge/GitHub-Saravana071005-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
