@@ -297,7 +297,7 @@ Maharishi Vidya Mandir · 2020 – 2021
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravana071005&bg_color=0D0D1A&color=9B59B6&line=6A0DAD&point=C9D1D9&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravana071005&bg_color=0d0d1a&color=9b59b6&line=6a0dad&point=ffffff&area_color=6a0dad&area=true&hide_border=true&custom_title=Saravana071005%20Contribution%20Graph" width="95%"/>
 </p>
 
 ---
